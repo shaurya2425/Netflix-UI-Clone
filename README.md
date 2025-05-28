@@ -29,12 +29,3 @@ A fully responsive clone of the Netflix homepage built using **HTML** and **CSS*
 
 ![Netflix UI Clone Screenshot](screenshot.png)
 
-> *(Add a screenshot of your project as `screenshot.png` in the repo for this to display)*
-
----
-
-## 📌 How to Use
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/netflix-ui-clone.git
